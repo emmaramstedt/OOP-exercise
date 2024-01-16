@@ -2,7 +2,7 @@
 
 ## Descripton
 
-The game consists of two dice. The user selects the numbers 6, 7, 8 or 9 and clicks on a Play button. The two dice roll a random number and is added to a total. If the numbers equal to the same number that the player selected, it is game over. If not, then the total is added to the player's high score.
+The game consists of two dice. The user selects numbers 6, 7, 8, or 9 and clicks on the Play button. The two dice roll random numbers, which are then added to a total. If the sum equals the number selected by the player, it's game over. Otherwise, the total is added to the player's high score.
 
 ## Criteria
 
