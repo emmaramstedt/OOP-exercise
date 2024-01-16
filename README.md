@@ -8,7 +8,7 @@ The game consists of two dice. The user selects numbers 6, 7, 8, or 9 and clicks
 
 - The code should be written using JavaScript, HTML and CSS.
 - The code should be [object-oriented](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes).
-- The number that the user selected should be verified using regex.
+- The number that the user selected should be verified using regex in order to prevent the user from manipulating the DOM.
 - No console errors!
 
 ## Extra
